@@ -270,3 +270,55 @@
     margin-left: 0;
   }
 }
+@media (max-width: 576px) {
+  .body img {
+    width: 150px;
+  }
+  .menu-header__icon {
+    position: absolute;
+    top: 60px;
+    left: 50px;
+    width: 25px;
+  }
+  .menu-drawer {
+    padding: 0;
+  }
+  .logo img {
+    width: 100px;
+  }
+  .close__menu {
+    padding-top: 25px;
+  }
+  #navbar__list--mobile a {
+    font-size: 18px;
+  }
+  .navbar__link {
+    width: 100px;
+  }
+  .hero-summary {
+    display: none;
+  }
+  .heading {
+    font-size: 2rem;
+  }
+  .popular-top .desc {
+    width: 430px;
+  }
+  .popular .course-item {
+    width: 100%;
+  }
+  .features .images {
+    width: 130%;
+    padding-left: 30px;
+  }
+  .heading-lv2 {
+    font-size: 2.9rem;
+  }
+  .hero .heading {
+    font-size: 3rem;
+  }
+  .main-content {
+    padding-left: 30px;
+    padding-right: 0px;
+  }
+}
