@@ -321,4 +321,13 @@
     padding-left: 30px;
     padding-right: 0px;
   }
+  #navbar__list--mobile {
+    padding-left: 10px;
+  }
+  .close__menu {
+    margin-right: 10px;
+  }
+  .logo {
+    padding-left: 12px;
+  }
 }
